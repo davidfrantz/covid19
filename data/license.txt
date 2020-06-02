@@ -1,0 +1,10 @@
+Data provider: Robert Koch-Institut (RKI), dl-de/by-2-0
+
+Bundesländer:
+https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/ef4b445a53c1406892257fe63129a8ea_0
+
+Landkreise:
+https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/917fc37a709542548cc3be077a786c17_0
+
+COVID-19 cases:
+https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0
