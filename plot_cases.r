@@ -29,7 +29,9 @@ identify_cluster <- function(x, LK){
     
 
 plot_cases <- function(x, cum=FALSE, incidence=FALSE, LK=NULL, timing=NULL){
-    
+
+    options(warn = -1) # disable some spurious plot_ly warning
+
     if (!is.null(LK)){
         LK <- unique(LK)
         x <- x[x$LK %in% LK,]
