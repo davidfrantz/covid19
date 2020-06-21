@@ -5,3 +5,5 @@ Jupyter lab project for spatiotemporal cluster analysis of COVID-19 cases publis
 (c) 2020 David Frantz
 
 Demonstration lesson for `Geoinformatics - Spatial Data Science`, Trier University
+
+![clustering-demo](static/st-clustering.jpg)
